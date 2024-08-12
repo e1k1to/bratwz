@@ -10,6 +10,7 @@ $(document).ready(function() {
     }, 500);
   
     $("#weez")[0].play();
+    $("#butao").text(":trollface:");
 
   });
 });
